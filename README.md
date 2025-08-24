@@ -1,3 +1,3 @@
 # new-repository
 new things
-Author  - new-repository
+Author  - new-repository-learnings
